@@ -14,3 +14,18 @@ public class EvenOdd {
 						            else
 								                System.out.println(num + " is odd");
 							        }java.util.Scanner
+
+
+//dev 2 code
+public class MultiplyTwoNumbers {
+
+    public static void main(String[] args) {
+
+        float first = 1.5f;
+        float second = 2.0f;
+
+        float product = first * second;
+
+        System.out.println("The product is: " + product);
+    }
+}
